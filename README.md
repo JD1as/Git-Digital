@@ -5,3 +5,5 @@
 ### Teste
 
 * Comando git push
+* comando git pull
+  
